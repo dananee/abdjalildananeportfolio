@@ -1,0 +1,24 @@
+{
+  "assets/images/cepc.png": ["assets/images/cepc.png"],
+  "assets/images/cursors/Cursor_11.png": [
+    "assets/images/cursors/Cursor_11.png"
+  ],
+  "assets/images/cursors/Cursor_15.png": [
+    "assets/images/cursors/Cursor_15.png"
+  ],
+  "assets/images/cursors/Cursor_3.png": ["assets/images/cursors/Cursor_3.png"],
+  "assets/images/cursors/arrow.png": ["assets/images/cursors/arrow.png"],
+  "assets/images/doc.png": ["assets/images/doc.png"],
+  "assets/images/file.png": ["assets/images/file.png"],
+  "assets/images/logo.png": ["assets/images/logo.png"],
+  "assets/images/trash.png": ["assets/images/trash.png"],
+  "assets/sounds/error.mp3": ["assets/sounds/error.mp3"],
+  "fonts/c-and-c-red-alert-inet.ttf": ["fonts/c-and-c-red-alert-inet.ttf"],
+  "fonts/win95.ttf": ["fonts/win95.ttf"],
+  "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+  ],
+  "packages/flutter95/icons/icon_error.png": [
+    "packages/flutter95/icons/icon_error.png"
+  ]
+}
